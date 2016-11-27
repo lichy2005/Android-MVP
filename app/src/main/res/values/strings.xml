@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="city_names">
+        <item>北京</item>
+        <item>上海</item>
+        <item>深圳</item>
+        <item>成都</item>
+        <item>青岛</item>
+        <item>济南</item>
+        <item>天津</item>
+        <item>南京</item>
+        <item>滨州</item>
+        <item>石景山</item>
+        <item>邹平</item>
+        <item>长清</item>
+    </string-array>
+</resources>
